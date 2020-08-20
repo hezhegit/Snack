@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SnackEatting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SnackEatting_jar</output-path>
+    <root id="archive" name="SnackEatting.jar">
+      <element id="module-output" name="SnackEatting" />
+    </root>
+  </artifact>
+</component>
